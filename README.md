@@ -36,6 +36,6 @@ Feel free to reach out to me via:
 - 📝 Medium: [Your Medium profile URL]
 
 ## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=kismat&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=kismuuu&color=brightgreen)
 
 Let's connect and collaborate on exciting projects!
