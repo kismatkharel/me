@@ -35,4 +35,7 @@ Feel free to reach out to me via:
 - 👔 AngelList: [Your AngelList profile URL]
 - 📝 Medium: [Your Medium profile URL]
 
+## Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+
 Let's connect and collaborate on exciting projects!
