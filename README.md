@@ -1,41 +1,71 @@
-# Your Name
+# 👋 Kismat Khl
+### Founder | Software Engineer | Cyber Security Enthusiast
 
-## About Me
-Welcome to my GitHub profile! I'm passionate about [mention your interests/hobbies/professional expertise]. With a background in [mention your background], I enjoy exploring new technologies and sharing my knowledge with others.
+Founder of **Easy Software**, focused on building **secure, scalable, and practical software solutions** for education, finance, and business automation in Nepal.
 
-## Skills
-- 💻 Programming Languages: [List your programming languages]
-- 🛠️ Technologies/Frameworks: [List technologies/frameworks you're proficient in]
-- 📚 Other Skills: [Any additional skills you want to highlight]
+---
 
-## Projects
-Here are some of the projects I've worked on:
-1. **Project Name:** [Brief description]
-   - [Link to GitHub repository]
-   - [Any additional details]
+## 🏢 Founder
+**Easy Software Pvt. Ltd.**  
+Software & Mobile App Development
 
-2. **Project Name:** [Brief description]
-   - [Link to GitHub repository]
-   - [Any additional details]
+---
 
-## Contributions
-I'm actively contributing to open source projects, including:
-- [Project name]: [Brief description]
-  - [Link to GitHub repository]
+## 💼 Experience
+- **Founder** — Elite Infotech Pvt. Ltd. (Jun 2020 – Present)  
+- **Project Manager** — Easy Software Pvt. Ltd. (Nov 2021 – Present)  
+- **Android App Developer** — Easy Software Pvt. Ltd. (Apr 2018 – Oct 2021)  
+- **IT Coordinator** — Unik Khabar (Jul 2020 – Present)  
+- **IT Coordinator** — Siddhashram Shakti Kendra (Apr 2022 – Present)
 
-## Contact Me
-Feel free to reach out to me via:
-- ✉️ Email: [Your email address]
-- 💼 LinkedIn: [Your LinkedIn profile URL]
-- 🐦 Twitter: [Your Twitter handle]
-- 🌐 Website/Blog: [Your website/blog URL]
-- 📷 Instagram: [Your Instagram profile URL]
-- 📌 Pinterest: [Your Pinterest profile URL]
-- 📺 YouTube: [Your YouTube channel URL]
-- 👔 AngelList: [Your AngelList profile URL]
-- 📝 Medium: [Your Medium profile URL]
+---
 
-## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=kismuuu&color=brightgreen)
+## 🎓 Education
+- **MSc IT in Cyber Security** — Islington College  
+  *(London Metropolitan University)*  
+- **BSc (Hons) Computing** — The British College  
+  *(Leeds Beckett University)*  
+- **+2 Science** — Kathmandu Bernhardt College  
+- **School Level** — Gorakshyanikhil Jyoti Divya Vidhyashram  
 
-Let's connect and collaborate on exciting projects!
+---
+
+## 🛠️ Technical Skills
+- **Web & Software:** ASP.NET (C#), WinForms, Web Forms, HTML, CSS, Bootstrap  
+- **Mobile:** Android (Java, XML), SQLite, Firebase  
+- **Backend & API:** .NET Core API, SQL Server, Postman  
+- **DevOps:** Play Store, App Store, IIS, cPanel, RDP  
+- **Version Control:** Git & GitHub  
+- **Other:** Cyber Security, Basic SEO, Canva  
+
+---
+
+## 📦 Key Projects
+- **Easy School**  
+- **Elite Calculator**  
+- **Elite Khata**  
+- **Hami Chhimeki**  
+- **Easy Hotel**  
+- **Easy Collector / Smart Collector**  
+- **esPay Mobile Banking**  
+- **SSK App**  
+- **Unik Khabar App**
+
+---
+
+## 🏆 Awards
+- **Leo President** — Leo Club Kathmandu Sungabha (2023)  
+- **2nd Runner-Up** — Easy Quiz Competition (2023)
+
+---
+
+## 📜 Certifications
+- Android Developer — Broadway Infosys  
+- Digital Marketing — Broadway Infosys  
+
+---
+
+## 🌐 Connect
+- **GitHub:** @kismatkharel  
+- **Website:** https://kismatkharel.com.np  
+- **Email:** kismatkhl@gmail.com  
