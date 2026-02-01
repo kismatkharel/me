@@ -87,7 +87,3 @@ My focus is on **product planning, system architecture, secure implementation, a
   *(Leeds Beckett University)*  
 
 ---
-
-<p align="center">
-  <strong>“Software should be engineered for trust, scale, and longevity.”</strong>
-</p>
